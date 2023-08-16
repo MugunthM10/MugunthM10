@@ -1,7 +1,7 @@
 ![masterHead](https://media.licdn.com/dms/image/D5616AQEAatIt_8G1-Q/profile-displaybackgroundimage-shrink_350_1400/0/1686989027531?e=1697673600&v=beta&t=e-CnmdmQJYi_wO05K9qURMU2j3z0T5yKsfW2jZ3P9xc)
 <h1 align="center">Hi 👋, I'm Mugunth</h1>
 <h3 align="center">A Data Detective, driven by the excitement of unraveling the mystery of data</h3>
-<img align="center" alt="GIF" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ.gif">
+<img align="center" alt="GIF" width="400" src="https://github.com/MugunthM10/MugunthM10/blob/main/results%20communication.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugunthm10&label=Profile%20views&color=0e75b6&style=flat" alt="mugunthm10" /> </p>
 <img align="right" alt="GIF" width="400" src="https://giphy.com/gifs/infographic-infographics-statistics-SKab6E8Qeg7sY">
