@@ -4,6 +4,7 @@
 <img align="center" alt="Coding" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugunthm10&label=Profile%20views&color=0e75b6&style=flat" alt="mugunthm10" /> </p>
+<img align='right' alt="Coding" width="400" src="https://giphy.com/gifs/infographic-infographics-statistics-SKab6E8Qeg7sY">
 
 - 🌱 I’m currently learning **Data Science🔍📃🛠️📈🥸**
 
@@ -12,8 +13,6 @@
 - 💬 About me **A 21 yr old passionate data detective 🕵️‍♂️ pursuing bachelors degree in CSE with specialization in Data Science📈**
 
 - ⚡ Fun fact **I also know R programming😎**
-
-<img align='right' alt="Coding" width="400" src="https://giphy.com/gifs/infographic-infographics-statistics-SKab6E8Qeg7sY">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
